@@ -1,0 +1,4 @@
+name: BedWars
+version: 1.0.0
+main: de.kalo.bedwars.BedWars
+api-version: '1.20'
